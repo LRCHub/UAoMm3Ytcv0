@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "生きて、燦々",
+  "base_artist": "Ikimonogakari",
+  "createdAt": "2025-12-07T11:38:29.748721Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きて、燦々",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_01_生きて、燦々_いきものがかり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "生きて、燦々",
+      "artist": "いきものがかり",
+      "has_synced": false,
+      "path": "select/pl_02_生きて、燦々_いきものがかり.txt"
+    }
+  ]
+}
